@@ -1,0 +1,14 @@
+C:\Programming\C#\Вычмат\Labs1\bin\Debug\net7.0\Labs1.exe
+C:\Programming\C#\Вычмат\Labs1\bin\Debug\net7.0\Labs1.deps.json
+C:\Programming\C#\Вычмат\Labs1\bin\Debug\net7.0\Labs1.runtimeconfig.json
+C:\Programming\C#\Вычмат\Labs1\bin\Debug\net7.0\Labs1.dll
+C:\Programming\C#\Вычмат\Labs1\bin\Debug\net7.0\Labs1.pdb
+C:\Programming\C#\Вычмат\Labs1\obj\Debug\net7.0\Labs1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\Вычмат\Labs1\obj\Debug\net7.0\Labs1.AssemblyInfoInputs.cache
+C:\Programming\C#\Вычмат\Labs1\obj\Debug\net7.0\Labs1.AssemblyInfo.cs
+C:\Programming\C#\Вычмат\Labs1\obj\Debug\net7.0\Labs1.csproj.CoreCompileInputs.cache
+C:\Programming\C#\Вычмат\Labs1\obj\Debug\net7.0\Labs1.dll
+C:\Programming\C#\Вычмат\Labs1\obj\Debug\net7.0\refint\Labs1.dll
+C:\Programming\C#\Вычмат\Labs1\obj\Debug\net7.0\Labs1.pdb
+C:\Programming\C#\Вычмат\Labs1\obj\Debug\net7.0\Labs1.genruntimeconfig.cache
+C:\Programming\C#\Вычмат\Labs1\obj\Debug\net7.0\ref\Labs1.dll
